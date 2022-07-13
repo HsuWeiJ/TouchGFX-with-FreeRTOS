@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.19.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_36H4" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Denied</Translation>
+      </Text>
+      <Text Id="__SingleUse_LCXI" Alignment="Center" TypographyId="Log">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_7ROU" Alignment="Left" TypographyId="Log">
+        <Translation Language="GB">10</Translation>
+      </Text>
+      <Text Id="__SingleUse_YMYZ" Alignment="Left" TypographyId="Log">
+        <Translation Language="GB">Duty: &lt;value&gt; %</Translation>
+      </Text>
+      <Text Id="__SingleUse_K0M5" Alignment="Left" TypographyId="Log">
+        <Translation Language="GB">3.3</Translation>
+      </Text>
+      <Text Id="__SingleUse_9XV3" Alignment="Left" TypographyId="Log">
+        <Translation Language="GB">Vol: &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_MKJG" Alignment="Left" TypographyId="Log">
+        <Translation Language="GB">25</Translation>
+      </Text>
+      <Text Id="__SingleUse_LSMA" Alignment="Left" TypographyId="Log">
+        <Translation Language="GB">Hum: &lt;value&gt; %RH</Translation>
+      </Text>
+      <Text Id="__SingleUse_0VUW" Alignment="Left" TypographyId="Log">
+        <Translation Language="GB">25</Translation>
+      </Text>
+      <Text Id="__SingleUse_9A5M" Alignment="Left" TypographyId="Log">
+        <Translation Language="GB">Tem: &lt;value&gt; C</Translation>
+      </Text>
+      <Text Id="__SingleUse_C8MR" Alignment="Left" TypographyId="Log">
+        <Translation Language="GB" />
+      </Text>
+      <Text Id="__SingleUse_9TMI" Alignment="Left" TypographyId="Log">
+        <Translation Language="GB">ID:&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_DVZ4" Alignment="Left" TypographyId="Log">
+        <Translation Language="GB">Scan RFID card</Translation>
+      </Text>
+      <Text Id="__SingleUse_EDO2" Alignment="Left" TypographyId="Home_RTC">
+        <Translation Language="GB">:</Translation>
+      </Text>
+      <Text Id="__SingleUse_RE52" Alignment="Left" TypographyId="Home_Date">
+        <Translation Language="GB">22</Translation>
+      </Text>
+      <Text Id="__SingleUse_DY36" Alignment="Center" TypographyId="Home_RTC">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_TSWM" Alignment="Left" TypographyId="Home_RTC">
+        <Translation Language="GB">:</Translation>
+      </Text>
+      <Text Id="__SingleUse_A72A" Alignment="Left" TypographyId="Home_RTC">
+        <Translation Language="GB">/</Translation>
+      </Text>
+      <Text Id="__SingleUse_HVJW" Alignment="Left" TypographyId="Home_RTC">
+        <Translation Language="GB">20</Translation>
+      </Text>
+      <Text Id="__SingleUse_Q453" Alignment="Left" TypographyId="Home_RTC">
+        <Translation Language="GB">/</Translation>
+      </Text>
+      <Text Id="__SingleUse_1A6S" Alignment="Left" TypographyId="Home_Date">
+        <Translation Language="GB">Wed</Translation>
+      </Text>
+      <Text Id="__SingleUse_CL79" Alignment="Center" TypographyId="Home_Date">
+        <Translation Language="GB">&lt;value&gt;.</Translation>
+      </Text>
+      <Text Id="__SingleUse_AWN3" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Wed</Translation>
+      </Text>
+      <Text Id="__SingleUse_2978" Alignment="Left" TypographyId="Home_Date">
+        <Translation Language="GB">&lt;value&gt;.</Translation>
+      </Text>
+      <Text Id="__SingleUse_EBCG" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">9</Translation>
+      </Text>
+      <Text Id="__SingleUse_FTB7" Alignment="Center" TypographyId="Log">
+        <Translation Language="GB">CPU:  &lt;value&gt;%</Translation>
+      </Text>
+      <Text Id="__SingleUse_XJOY" Alignment="Left" TypographyId="Home_RTC">
+        <Translation Language="GB">:</Translation>
+      </Text>
+      <Text Id="__SingleUse_X6MM" Alignment="Left" TypographyId="Home_RTC">
+        <Translation Language="GB">:</Translation>
+      </Text>
+      <Text Id="__SingleUse_O863" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">08</Translation>
+      </Text>
+      <Text Id="__SingleUse_YJTJ" Alignment="Left" TypographyId="Home_RTC">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_MJSN" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">17</Translation>
+      </Text>
+      <Text Id="__SingleUse_14SA" Alignment="Left" TypographyId="Home_RTC">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_6DNU" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">13</Translation>
+      </Text>
+      <Text Id="__SingleUse_48EU" Alignment="Left" TypographyId="Home_RTC">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_9ORP" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">01</Translation>
+      </Text>
+      <Text Id="__SingleUse_CIY4" Alignment="Left" TypographyId="Home_RTC">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_2TXZ" Alignment="Left" TypographyId="Home_Date">
+        <Translation Language="GB">/</Translation>
+      </Text>
+      <Text Id="__SingleUse_JGUZ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">06</Translation>
+      </Text>
+      <Text Id="__SingleUse_6IW8" Alignment="Left" TypographyId="Home_RTC">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_VMEN" Alignment="Left" TypographyId="Home_RTC">
+        <Translation Language="GB">/</Translation>
+      </Text>
+      <Text Id="__SingleUse_MKWO" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">22</Translation>
+      </Text>
+      <Text Id="__SingleUse_P8XZ" Alignment="Center" TypographyId="Home_RTC">
+        <Translation Language="GB">20&lt;value&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Home_RTC" Font="verdana.ttf" Size="30" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters="-" WildcardCharacterRanges="0-9" />
+    <Typography Id="Home_Date" Font="verdana.ttf" Size="25" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7f,0-9" />
+    <Typography Id="Log" Font="verdana.ttf" Size="25" Bpp="4" Direction="LTR" WildcardCharacters="." WildcardCharacterRanges="0x20-0x7f,0-9" />
+  </Typographies>
+</TextDatabase>
